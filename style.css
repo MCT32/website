@@ -16,3 +16,14 @@ h1 {
     padding-top: 30px;
     font-family: sans-serif;
 }
+
+a {
+    color: white;
+    padding: 14px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+a.linktitle {
+    font-weight: bold;
+}
